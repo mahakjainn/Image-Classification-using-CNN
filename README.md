@@ -30,7 +30,7 @@ Required packages (install via requirements.txt)
 Installation:
 
 Clone the Repository:
-git clone https://github.com/yourusername/image-classification-cnn.git
+git clone https://github.com/mahakjainn/image-classification-cnn.git
 cd image-classification-cnn
 
 Create Virtual Environment:
